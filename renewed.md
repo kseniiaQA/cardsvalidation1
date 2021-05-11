@@ -11,9 +11,9 @@
 ### Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
 
-1. Чек-лист 
+1. Чек-лист https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=0
 (Проверка платежных систем:visa, master card, discover, american express, МИР, DinerClub. 
-2. Тест-кейсы по проверке данных платежных систем. 
+2. Тест-кейс по проверке данных платежных систем. https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=1623179314
 
 
 ### В качестве тестовых данных использовались данные из сайтов генератора карт - https://www.vccgenerator.com/ru/amex-card-generator/, https://www.prepostseo.com/tool/ru/credit-card-generator
