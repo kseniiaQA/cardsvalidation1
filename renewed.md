@@ -6,7 +6,10 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
- https://github.com/kseniia-tester/cardsvalidation1/issues
+ [issue1](https://github.com/kseniia-tester/cardsvalidation1/issues)
+ [issue2](https://github.com/kseniia-tester/cardsvalidation1/issues/3)
+ [issue3](https://github.com/kseniia-tester/cardsvalidation1/issues/1)
+ 
   
 ### Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
